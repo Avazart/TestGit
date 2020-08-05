@@ -1,5 +1,5 @@
 
-void f(char* c)
+void fxxx(char* c)
 {
 	
 }
@@ -7,7 +7,7 @@ void f(char* c)
 
 int main()
 {
-	f("test");
+	fxxx("test");
 	
 	return 0;
 }
